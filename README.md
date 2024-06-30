@@ -1,3 +1,10 @@
+Dalam Project Uas ini saya menggunakan CI-4 dengan versi PHP 8.2. Terdapat 3 Controler yaitu PembayaranCOntroller (BENDAHARA), SiswaController (Siswa&WaliMurid) dan HeadController (Kepala Sekolah), terdapat juga 2 Models yaitu Pembarayan (Bendahara dan Kepala Sekolah) dan Siswa (Siswa&WaliMurid).
+Dimana Siswa dan Murid hanya bisa melihat History pembayaran berdasarkan NIS (Nomor Induk Siswa) mereka,
+Kepala Sekolah dapat melihat semua data pembayaran berdasarkan tanggal yang kepala sekolah inginkan,
+sedangkan bendahara dapat melakukan Create, Read, Update, dan Delete dalam transaksi Pembayaran.
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
